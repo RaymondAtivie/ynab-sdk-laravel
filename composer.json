@@ -1,6 +1,6 @@
 {
-    "name": "ynab-sdk-laravel/ynab-sdk-laravel",
-    "description": "An SDK for working with YNAB's API in Laravel.",
+    "name": "raymondativie/ynab-sdk-laravel",
+    "description": "An SDK for working with YNAB's API in Laravel. a fork of ynab-sdk-laravel/ynab-sdk-laravel",
     "license": "MIT",
     "keywords": [
         "ynab-sdk-laravel",
